@@ -34,7 +34,7 @@ class Gupa
    /**
    * GUPA and GU Domains.
    */
-  public static $BASE_DOMAIN = 'http://localhost/gu_pa';
+  public static $BASE_DOMAIN = 'http://www.geomatikuygulamalar.com';
   public static $API_DOMAIN = 'http://gupa.geomatikuygulamalar.com/v1';
   
    /**
