@@ -24,14 +24,14 @@ have is:
 			);
 			
 
-To make [API][API] calls:
+To make [GUPA][GUPA] calls:
 
     $gupa->api('/user/get_info',array(),array('token'=>$token, 'token_secret'=>$token_secret));
 
 
 [client]: http://github.com/mtrcn/GUPA-PHP-SDK/blob/master/client/index.php
 [module]: http://github.com/mtrcn/GUPA-PHP-SDK/blob/master/module/index.php
-[API]: http://developers.facebook.com/docs/api
+[GUPA]: http://www.geomatikuygulamalar.com/gupa
 
 
 Documentation
