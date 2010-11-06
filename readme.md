@@ -45,4 +45,4 @@ Feedback
 
 File bugs or other issues [here][issues].
 
-[issues]: http://github.com/facebook/GUPA-PHP-SDK/issues
+[issues]: http://github.com/mtrcn/GUPA-PHP-SDK/issues
